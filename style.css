@@ -83,3 +83,10 @@ a:hover {
   text-decoration: underline;
   color: red;
 }
+button {
+  background-color: var(--primary_color);
+  box-shadow: var(--box_shadow);
+  color: aliceblue;
+  padding: 21px 16px;
+  border-radius: 4px;
+}
